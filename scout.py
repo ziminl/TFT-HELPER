@@ -3,3 +3,5 @@
 #sum  collected data and show. 
 
 import pyautogui
+
+pyautogui.press('q')
