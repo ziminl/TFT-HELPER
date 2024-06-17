@@ -9,3 +9,6 @@ https://youtu.be/wn-bNf2edDQ
 scout.py : scout other players team builds
 
 loopscout.py : loop of scout.py every _ sec
+
+#main bot
+https://githubhelp.com/jfd02/TFT-OCR-BOT
