@@ -19,3 +19,9 @@ full char. https://tftactics.gg/champions/
 full char image https://raw.communitydragon.org/14.12/game/assets/ux/tft/championsplashes/?C=M&O=A
 
 #strategy
+
+..idea..
+
+1. with power-up
+2. with starting champ
+3. with item?
