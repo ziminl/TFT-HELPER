@@ -25,3 +25,8 @@ full char image https://raw.communitydragon.org/14.12/game/assets/ux/tft/champio
 1. with power-up
 2. with starting champ
 3. with item?
+
+
+
+#logic
+main menu -> game start -> strategy (+ record(logging)) -> game end -> main menu
