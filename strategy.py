@@ -5,3 +5,13 @@
 # algo : max -4n ==0 -> lv up (8lv will be last)
 # to add augmentation based / 
 
+
+
+#db design
+# [a,b,c]
+#
+
+
+#start champion : deck
+#calculate
+#to add
