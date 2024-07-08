@@ -13,3 +13,5 @@
 #start champion : deck
 #calculate the best way.
 #to add more things like augmentation 
+
+#ocrlogic in line 12
