@@ -34,5 +34,7 @@ full char image https://raw.communitydragon.org/14.12/game/assets/ux/tft/champio
 main menu -> game start -> strategy (+ record(logging)) -> game end -> main menu
 
 
-#
+#error logs
+imgsearch error with screen res
+
 
