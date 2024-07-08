@@ -10,6 +10,8 @@ scout.py : scout other players team builds
 
 loopscout.py : loop of scout.py every _ sec
 
+strategy.py : winning~winrate strategy for bot
+
 #main bot
 https://githubhelp.com/jfd02/TFT-OCR-BOT
 
@@ -30,3 +32,7 @@ full char image https://raw.communitydragon.org/14.12/game/assets/ux/tft/champio
 
 #logic
 main menu -> game start -> strategy (+ record(logging)) -> game end -> main menu
+
+
+#
+
