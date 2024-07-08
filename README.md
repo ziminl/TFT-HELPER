@@ -25,7 +25,7 @@ full char image https://raw.communitydragon.org/14.12/game/assets/ux/tft/champio
 ..idea..
 
 1. with power-up
-2. with starting champ
+2. with starting champ(-augmentation)
 3. with item?
 
 
