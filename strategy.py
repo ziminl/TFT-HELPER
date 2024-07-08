@@ -7,11 +7,9 @@
 
 
 
-#db design
-# [a,b,c]
-#
+#strategy code logic
 
-
+#check with ocr, starting champion
 #start champion : deck
 #calculate
 #to add
