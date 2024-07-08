@@ -11,5 +11,5 @@
 
 #check with ocr, starting champion
 #start champion : deck
-#calculate
-#to add
+#calculate the best way.
+#to add more things like augmentation 
