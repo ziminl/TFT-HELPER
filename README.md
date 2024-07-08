@@ -38,3 +38,5 @@ main menu -> game start -> strategy (+ record(logging)) -> game end -> main menu
 imgsearch error with screen res
 
 
+
+
