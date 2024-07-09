@@ -14,4 +14,4 @@
 #calculate the best way.
 #to add more things like augmentation 
 
-#ocrlogic in line 12
+#ocr logic in line 12
