@@ -36,7 +36,6 @@ main menu -> game start -> strategy (+ record(logging)) -> game end -> main menu
 
 #error logs
 imgsearch error with screen res
-
-
+should improve imgsearch algorithm
 
 
