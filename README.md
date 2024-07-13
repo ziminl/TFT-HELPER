@@ -38,4 +38,5 @@ main menu -> game start -> strategy (+ record(logging)) -> game end -> main menu
 imgsearch error with screen res
 should improve imgsearch algorithm
 
+i dont play this game lot so dev stoped
 
