@@ -19,4 +19,7 @@
 
 # return what to buy
 #list all things in shop+reroll clicking(mabie lv 8 with 3cost 3star/ 5with 1cost 3star / 6,7 with 2
-#
+# need to scan augmentation.
+
+
+
