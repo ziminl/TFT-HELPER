@@ -46,3 +46,4 @@ screenshot = screenshot.convert('L')  # Convert to grayscale
 text = pytesseract.image_to_string(screenshot)
 
 print("200~400x200x400 has :", text)
+#make deck and collect one by one, but after reroll, capture it again.
