@@ -5,8 +5,6 @@
 # algo : max -4n ==0 -> lv up (8lv will be last)
 # to add augmentation based / 
 
-
-
 #strategy code logic
 
 #check with ocr, starting champion
@@ -15,11 +13,15 @@
 #to add more things like augmentation 
 
 
+#<- strategy start->
 
-# return what to buy
 #list all things in shop+reroll clicking(mabie lv 8 with 3cost 3star/ 5with 1cost 3star / 6,7 with 2
-#
 
+#if turn = "int" 
+# levelup
+
+#if there is thing to buy (what to buy is very difficult)
+#buy
 
 
 
