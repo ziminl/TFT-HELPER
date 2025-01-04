@@ -30,6 +30,7 @@ full char image https://raw.communitydragon.org/14.12/game/assets/ux/tft/champio
 
 
 
+
 #logic
 main menu -> game start -> strategy (+ record(logging)) -> game end -> main menu
 
@@ -40,3 +41,4 @@ should improve imgsearch algorithm
 
 i dont play this game lot so dev stoped
 
+new tech to use https://www.llama.com/
