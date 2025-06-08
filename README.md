@@ -97,7 +97,7 @@ ex)
 | **연승 중 구인수/AD** | 선봉사격 or 입양 제리 or 자야 각까지 연결 가능 |
 
 ---
-
+크게생각하면 키워드론 주요템 / ap템 / ad템 / 유물 / 등
 
 #error logs
 imgsearch error with screen res
